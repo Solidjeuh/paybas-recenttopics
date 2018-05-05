@@ -37,7 +37,7 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge(
 	$lang, array(
-	'RT_ENABLE'              => 'Toon op on index pagina',
+	'RT_ENABLE'              => 'Toon Recente onderwerpen',
 	'RT_BOTTOM'              => 'Toon beneden',	
 	'RT_SIDE'                => 'Toon rechts',	
 	'RT_TOP'                 => 'Toon boven',
